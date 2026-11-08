@@ -1,0 +1,85 @@
+qid,name,type,nation,county,lon,lat,pop,elev_m,sol_min,flat_min,lost_min,nodays,hor_s,hor_max,noon_alt,point_check,check_sol_min,check_nodays,osm_offset_km,osm_lat,osm_lon,osm_sol_min,osm_nodays
+Q2280422,Camas-luinie,hamlet,Scotland,Highland,-5.408,57.299,,19,0.0,392.6,392.6,123,23.79,25.31,9.36,unmatched,0,119,,,,,
+Q6915175,Morvich,human settlement,Scotland,Highland,-5.38322,57.2316,,59,0.0,393.6,393.6,117,28.74,29.05,9.42,confirmed,0,111,0.41,57.2348,-5.37997,0.0,85.0
+Q1013614,Kinlochleven,Village,Scotland,Highland,-4.96529,56.71325,810.0,14,0.0,400.9,400.9,109,25.56,27.27,9.94,confirmed,0,104,0.12,56.7143,-4.96477,0.0,87.0
+Q2741546,Camusnagaul,human settlement,Scotland,Highland,-5.26073,57.8499,,27,0.0,383.9,383.9,103,25.9,26.64,8.81,confirmed,0,100,0.21,57.85096,-5.26358,0.0,98.0
+Q89471534,Seldom Seen,hamlet,England,Cumbria,-2.96,54.558,,251,0.0,430.2,430.2,99,20.23,20.84,12.08,unmatched,0,95,,,,,
+Q2159846,Leirinmore,human settlement,Scotland,Highland,-4.69985,58.5528,,46,0.0,372.2,372.2,95,15.74,15.75,8.12,disputed,0,90,1.52,58.56327,-4.71666,252.0,0.0
+Q2496103,Ardessie,human settlement,Scotland,Highland,-5.28427,57.8534,,32,0.0,383.8,383.8,91,15.52,19.62,8.81,confirmed,0,86,0.12,57.85366,-5.28224,0.0,88.0
+Q123520514,Pen-y-coed,suburb,Wales,Clwyd,-3.92956,53.2646,,99,0.0,445.3,445.3,89,20.25,20.26,13.36,confirmed,0,85,0.41,53.26571,-3.92372,0.0,36.0
+Q7371598,Routenbeck,hamlet,England,Cumbria,-3.249,54.662,,124,0.0,429.3,429.3,85,19.11,19.16,11.97,unmatched,0,81,,,,,
+Q2349965,Talisker,Village,Scotland,Highland,-6.45,57.2833,,11,0.0,392.8,392.8,85,15.51,15.76,9.37,disputed,0,81,0.75,57.28739,-6.44011,170.0,0.0
+Q123520453,Penmaenan,hamlet,Wales,Clwyd,-3.94104,53.26546,,97,0.0,445.3,445.3,83,22.95,27.04,13.36,unmatched,0,78,,,,,
+Q108367061,Knock,hamlet,Scotland,Argyll and Bute,-5.98333,56.46667,,263,0.0,405.0,405.0,81,17.76,26.09,10.18,confirmed,0,78,1.35,56.47846,-5.98835,0.0,52.0
+Q2404650,Allt na h-Airbhe,human settlement,Scotland,Highland,-5.1838,57.8876,,37,0.0,383.3,383.3,81,14.36,14.36,8.77,unmatched,0,78,,,,,
+Q2113099,Sangobeg,human settlement,Scotland,Highland,-4.70361,58.5535,6.0,34,0.0,372.2,372.2,81,14.32,14.49,8.12,confirmed,0,78,0.12,58.55438,-4.70483,0.0,67.0
+Q5142496,Coldbackie,hamlet,Scotland,Highland,-4.38156,58.50579,,71,0.0,372.2,372.2,79,15.97,16.67,8.16,confirmed,0,76,0.02,58.50576,-4.38124,0.0,70.0
+Q20598073,Cwm Llech,Village,Wales,Powys,-3.43562,52.81226,,282,0.0,450.3,450.3,79,21.55,24.08,13.81,unmatched,0,76,,,,,
+Q956688,Glencoe,human settlement,Scotland,Highland,-5.10598,56.6828,374.0,5,0.0,400.9,400.9,77,17.16,17.7,9.97,confirmed,0,73,0.28,56.68276,-5.10145,0.0,23.0
+Q107032754,Pantygaseg,human settlement,Wales,Gwent,-3.08627,51.68473,,339,0.0,463.1,463.1,77,21.22,22.0,14.94,unmatched,0,70,,,,,
+Q4673899,Achriabhach,human settlement,Scotland,Highland,-5.04085,56.77,,63,0.0,400.5,400.5,75,17.93,20.82,9.88,confirmed,0,72,0.02,56.76999,-5.04046,0.0,73.0
+Q17458126,Ardnarff,human settlement,Scotland,Highland,-5.5116,57.3618,,30,0.0,391.3,391.3,75,17.19,23.55,9.3,confirmed,0,72,0.14,57.36282,-5.51027,0.0,66.0
+Q122839109,Balvraid,locality,Scotland,Highland,-5.5646,57.1885,,64,0.0,393.7,393.7,73,16.93,19.46,9.47,confirmed,0,68,0.06,57.18889,-5.56392,0.0,61.0
+Q723315,Kilmun,Village,Scotland,Argyll and Bute,-4.93389,55.99278,,22,0.0,410.6,410.6,71,18.26,24.34,10.65,confirmed,0,88,0.48,55.99001,-4.92788,0.0,32.0
+Q12061014,Kinloch Hourn,human settlement,Scotland,Highland,-5.387,57.106,,6,0.0,395.5,395.5,71,20.08,27.71,9.55,confirmed,0,68,0.16,57.10493,-5.38514,0.0,76.0
+Q7685653,Tarbet,human settlement,Scotland,Highland,-5.636,56.97,6.0,39,0.0,397.6,397.6,71,16.61,19.2,9.68,confirmed,0,66,0.09,56.96921,-5.63546,0.0,66.0
+Q7163104,Penmaenpool,hamlet,Wales,Gwynedd,-3.93611,52.7472,,47,0.0,451.9,451.9,69,18.37,18.66,13.88,confirmed,0,67,0.1,52.74783,-3.93496,0.0,58.0
+Q20594570,Llechwedd Cilan,hamlet,Wales,Clwyd,-3.46,52.919,,212,0.0,450.0,450.0,67,17.93,18.49,13.71,unmatched,0,65,,,,,
+Q7619337,Stonethwaite,Village,England,Cumbria,-3.14028,54.51306,,116,0.0,430.2,430.2,67,20.62,26.61,12.12,confirmed,0,64,0.03,54.51328,-3.14032,0.0,62.0
+Q136871767,Portnellan,human settlement,Scotland,Stirling,-4.57562,56.39674,,183,0.0,405.7,405.7,65,15.14,20.31,10.25,confirmed,0,62,0.08,56.3968,-4.5743,0.0,57.0
+Q772427,Aultbea,human settlement,Scotland,Highland,-5.586,57.84,370.0,7,0.0,384.0,384.0,63,15.76,15.81,8.82,disputed,0,71,0.16,57.84069,-5.58367,281.0,0.0
+Q15187578,Ardclinis,human settlement,Northern Ireland,Northern Ireland,-6.0042,55.055,,174,0.0,424.2,424.2,63,20.08,23.43,11.58,unmatched,0,63,,,,,
+Q4788180,Ardmolich,human settlement,Scotland,Highland,-5.75,56.78,,52,0.0,400.4,400.4,59,12.92,13.21,9.87,unmatched,0,57,,,,,
+Q107032484,Dôl-goch,human settlement,Wales,Gwynedd,-3.99549,52.61694,,227,0.0,452.9,452.9,57,17.07,17.36,14.01,unmatched,0,55,,,,,
+Q60477918,Kingairloch,hamlet,Scotland,Highland,-5.50297,56.61658,,27,0.0,402.8,402.8,57,14.87,23.11,10.03,disputed,0,63,1.5,56.61951,-5.52697,145.0,0.0
+Q107033297,Gwastadnant,hamlet,Wales,Gwynedd,-4.07133,53.09776,,131,0.0,447.8,447.8,55,18.65,23.18,13.53,unmatched,0,52,,,,,
+Q4726948,Alisary,human settlement,Scotland,Highland,-5.70259,56.85262,,41,0.0,398.5,398.5,55,18.64,23.05,9.8,confirmed,0,51,0.16,56.85375,-5.70416,0.0,43.0
+Q4087058,Birnam,town,Scotland,Perth and Kinross,-3.57646,56.5573,,71,0.0,403.3,403.3,53,14.7,14.76,10.09,confirmed,0,50,0.09,56.55759,-3.57507,0.0,8.0
+Q2332114,Achaphubuil,human settlement,Scotland,Highland,-5.14036,56.8362,,17,0.0,398.5,398.5,53,12.35,12.37,9.82,confirmed,0,51,0.5,56.83582,-5.14861,0.0,42.0
+Q5016325,Caddonlee,Village,Scotland,Scottish Borders,-2.89,55.6,,250,0.0,417.0,417.0,53,14.81,16.99,11.04,disputed,0,51,1.22,55.61042,-2.8838,359.0,0.0
+Q3297444,Stromeferry,Village,Scotland,Highland,-5.551,57.352,,25,0.0,391.3,391.3,53,12.3,17.67,9.3,disputed,0,50,0.16,57.35231,-5.55358,58.0,0.0
+Q5454295,Firth,Village,Scotland,Shetland Islands,-1.19694,60.4439,,16,0.0,336.5,336.5,51,8.51,8.51,6.25,disputed,0,48,0.59,60.4491,-1.1986,270.0,0.0
+Q5504639,Friog,Village,Wales,Gwynedd,-4.049,52.691,,18,0.0,452.5,452.5,51,17.6,18.43,13.93,unmatched,0,49,,,,,
+Q6665057,Lochailort,hamlet,Scotland,Highland,-5.65564,56.8741,,58,0.0,398.5,398.5,49,12.97,14.74,9.78,confirmed,0,46,0.71,56.87837,-5.66425,0.0,42.0
+Q124478924,Wythop Mill,hamlet,England,Cumbria,-3.275,54.654,,134,0.0,429.4,429.4,47,14.07,14.17,11.98,confirmed,0,45,0.07,54.65441,-3.27409,0.0,42.0
+Q4736757,Altmore Upper,human settlement,Northern Ireland,Northern Ireland,-6.1062,55.05305,,274,0.0,424.3,424.3,47,13.72,13.95,11.59,unmatched,0,46,,,,,
+Q104727223,Kinloch,hamlet,Scotland,Highland,-4.8214,58.2679,,80,0.0,377.0,377.0,47,13.31,23.78,8.4,unmatched,0,45,,,,,
+Q3398476,Aberffrwd,hamlet,Wales,Dyfed,-3.93111,52.3914,,87,0.0,455.4,455.4,47,16.16,16.16,14.23,confirmed,0,44,0.05,52.39188,-3.93124,0.0,40.0
+Q3438956,Kilphedir,human settlement,Scotland,Highland,-3.72293,58.1436,,40,0.0,379.1,379.1,47,12.3,12.98,8.52,confirmed,0,44,0.13,58.14468,-3.72364,0.0,23.0
+Q4673638,Achfary,human settlement,Scotland,Highland,-4.916,58.312,,52,0.0,376.3,376.3,45,10.56,10.62,8.35,confirmed,0,43,0.04,58.31177,-4.91556,0.0,45.0
+Q106963434,Woodend,human settlement,Scotland,Highland,-4.4035,58.49892,,77,0.0,372.2,372.2,45,11.75,17.19,8.17,unmatched,0,44,,,,,
+Q1045216,Carron,Village,Scotland,Moray,-3.29821,57.4544,,114,0.0,390.2,390.2,45,11.11,11.34,9.2,disputed,0,44,0.21,57.4561,-3.29981,111.0,0.0
+Q596798,Tarbet,Village,Scotland,Argyll and Bute,-4.717,56.203,,43,0.0,408.2,408.2,43,14.44,15.33,10.44,disputed,0,42,0.37,56.20371,-4.7111,191.0,0.0
+Q5314900,Dundonnell,human settlement,Scotland,Highland,-5.21147,57.8388,,26,0.0,384.1,384.1,43,13.26,20.04,8.82,confirmed,0,42,0.08,57.83945,-5.21204,0.0,40.0
+Q2667320,Fodderty,human settlement,Scotland,Highland,-4.45806,57.5992,,28,0.0,387.9,387.9,41,10.77,11.38,9.06,disputed,0,38,1.98,57.60053,-4.49121,184.0,0.0
+Q3121271,Badcaul,human settlement,Scotland,Highland,-5.3374,57.87043,,57,0.0,383.6,383.6,39,10.96,11.5,8.79,disputed,0,38,0.29,57.87249,-5.34035,32.0,0.0
+Q13130349,Nant Peris,Village,Wales,Gwynedd,-4.08617,53.10474,,112,0.0,447.8,447.8,39,18.73,25.61,13.52,confirmed,0,36,0.36,53.10454,-4.08085,0.0,15.0
+Q16880196,Edentaggart,hamlet,Scotland,Argyll and Bute,-4.69634,56.10934,,145,0.0,410.0,410.0,37,12.21,13.44,10.54,confirmed,0,35,0.04,56.1091,-4.69587,0.0,43.0
+Q5568123,Glenachulish,human settlement,Scotland,Highland,-5.18917,56.6811,,48,0.0,400.9,400.9,37,12.22,26.59,9.97,confirmed,0,36,0.14,56.68208,-5.19061,0.0,34.0
+Q20594064,Eunant,Village,Wales,Powys,-3.53777,52.78877,,277,0.0,450.3,450.3,35,15.57,17.65,13.84,unmatched,0,34,,,,,
+Q107032222,Black Vein,human settlement,Wales,Gwent,-3.12787,51.61241,,160,0.0,463.1,463.1,35,16.82,17.74,15.01,unmatched,0,34,,,,,
+Q2249825,Inverchoran,human settlement,Scotland,Highland,-4.91698,57.5127,,153,0.0,388.9,388.9,35,12.29,16.03,9.15,unmatched,0,34,,,,,
+Q136772449,Kinlochmore,former village; neighborhood,Scotland,Highland,-4.96182,56.71662,,28,0.0,400.9,400.9,35,15.96,19.79,9.93,confirmed,0,33,0.05,56.71621,-4.96205,0.0,42.0
+Q123519640,Dôl-ffanog,hamlet,Wales,Gwynedd,-3.88343,52.67723,,91,0.0,452.7,452.7,35,18.46,18.58,13.95,unmatched,0,34,,,,,
+Q667705,Lochranza,Village,Scotland,North Ayrshire,-5.2947,55.7048,251.0,29,0.0,415.5,415.5,31,15.26,15.87,10.94,confirmed,0,29,0.04,55.70459,-5.29515,0.0,44.0
+Q7878790,Ulcat Row,Village,England,Cumbria,-2.919,54.595,,320,0.0,430.1,430.1,31,12.97,12.97,12.04,confirmed,0,31,0.17,54.59477,-2.92168,0.0,35.0
+Q4941115,Bonaly,neighborhood,Scotland,City of Edinburgh,-3.25744,55.896,,176,0.0,413.0,413.0,29,12.58,13.03,10.75,disputed,0,29,0.55,55.9009,-3.25834,279.0,0.0
+Q7055323,North Erradale,human settlement,Scotland,Highland,-5.78602,57.7585,,40,0.0,385.4,385.4,27,9.55,9.6,8.9,disputed,0,26,0.8,57.76198,-5.79786,299.0,0.0
+Q5559249,Gibshill,human settlement,Scotland,Inverclyde,-4.71184,55.9346,,66,0.0,412.5,412.5,27,11.37,11.48,10.71,confirmed,0,27,0.08,55.9353,-4.71192,0.0,28.0
+Q1234805,Lynmouth,Village,England,Devon,-3.82944,51.22944,,44,0.0,468.1,468.1,25,16.64,18.63,15.39,confirmed,0,26,0.05,51.22986,-3.82906,0.0,18.0
+Q68376003,Heylor,hamlet,Scotland,Shetland Islands,-1.4712,60.51101,,18,0.0,334.8,334.8,25,7.68,12.15,6.19,unmatched,0,24,,,,,
+Q122155261,Mandally,locality,Scotland,Highland,-4.812,57.0657,,78,0.0,396.1,396.1,23,10.24,10.6,9.59,confirmed,0,22,0.11,57.06593,-4.81028,0.0,24.0
+Q111513120,Carnach,human settlement,Scotland,Highland,-5.27806,57.30167,,117,0.0,392.5,392.5,23,16.36,16.43,9.35,confirmed,0,22,0.11,57.30076,-5.27879,0.0,37.0
+Q4955334,Braemore,human settlement,Scotland,Highland,-3.58,58.24,,215,0.0,377.0,377.0,23,8.86,10.92,8.43,disputed,0,22,1.32,58.25186,-3.58129,168.0,0.0
+Q5051165,Catacol,Village,Scotland,North Ayrshire,-5.326,55.689,,10,0.0,415.5,415.5,21,14.63,14.73,10.95,disputed,0,21,0.76,55.69587,-5.32611,220.0,0.0
+Q24656795,Birkhill,locality,Scotland,Scottish Borders,-3.26083,55.42958,,396,0.0,419.3,419.3,19,16.64,20.08,11.21,unmatched,0,20,,,,,
+Q7598860,Stanhope,Village,Scotland,Scottish Borders,-3.393,55.553,,228,0.0,417.7,417.7,19,14.35,14.36,11.09,unmatched,0,20,,,,,
+Q2363608,Inverfarigaig,human settlement,Scotland,Highland,-4.45399,57.2803,,68,0.0,392.9,392.9,17,9.81,10.35,9.38,disputed,0,16,0.36,57.28354,-4.45357,308.0,0.0
+Q105957583,Kilkerran,hamlet; suburb,Scotland,Argyll and Bute,-5.59024,55.41614,,8,0.0,419.5,419.5,17,12.57,12.77,11.23,disputed,0,16,0.43,55.4173,-5.59679,184.0,0.0
+Q20597965,Cwm Dwygo,Village,Wales,Powys,-3.41963,52.81362,,276,0.0,450.3,450.3,17,15.23,19.77,13.81,unmatched,0,16,,,,,
+Q165022,Lewiston,human settlement,Scotland,Highland,-4.47606,57.32681,,41,0.0,391.3,391.3,11,9.71,10.7,9.33,disputed,0,10,0.13,57.32749,-4.47439,42.0,0.0
+Q5288968,Dolfach,Village,Wales,Powys,-3.60748,52.6023,,147,0.0,452.9,452.9,7,15.31,15.44,14.02,disputed,0,8,0.08,52.60222,-3.60862,51.0,0.0
+Q37951894,Sheader,Village,Scotland,Highland,-6.34028,57.58464,,101,0.0,388.1,388.1,5,9.11,9.16,9.07,confirmed,1,0,0.09,57.58472,-6.33886,0.0,11.0
+Q2653611,Penmaenmawr,human settlement; town,Wales,Clwyd,-3.928,53.27,4353.0,14,0.0,445.3,445.3,5,14.2,14.2,13.36,disputed,0,6,0.57,53.26814,-3.92003,99.0,0.0
+Q7987379,Westerfield,Village,Scotland,Shetland Islands,-1.35879,60.2462,,13,0.0,339.5,339.5,3,16.76,17.21,6.45,unmatched,0,1,,,,,
+Q4950476,Bouverie,neighborhood,Scotland,Inverclyde,-4.68111,55.9319,,35,0.0,412.5,412.5,1,10.92,11.45,10.71,unmatched,0,4,,,,,

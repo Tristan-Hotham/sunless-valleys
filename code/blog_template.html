@@ -1,0 +1,113 @@
+<!-- wp:paragraph -->
+<p><em>On the shortest day the sun barely clears the horizon in Britain, and hills hide it. I worked out the skyline of every town, village and hamlet in the United Kingdom and drew the winter sun across it. {{zero_sol|int}} places get no direct sun at all on 21 December, and in the Highlands some go more than three months without it.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/sunless-valleys/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24055580">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>Rjukan in Norway famously sits so deep in its valley that it put mirrors on the mountainside to bounce winter sunshine into the town square. Britain's hills are much lower than Norway's, so it is easy to assume nothing like that happens here. But Britain is also far north. On 21 December the noon sun climbs only {{noon_alt_50|f1}} degrees above the horizon on the south coast of England, {{noon_alt_56|f1}} degrees in the Central Belt of Scotland and {{noon_alt_60|f1}} degrees in Shetland, and for the rest of its short day it is lower still, skimming round from the south east to the south west. A hill a few hundred metres high, a couple of kilometres to your south, is enough to hide it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So which places really go without sunshine in midwinter, and for how long? I took the open terrain model that covers Britain and Ireland at about 90 metres, worked out the skyline from {{n_sett|int}} towns, villages and hamlets, and from every 175 metre square of land, and drew the path of the winter sun across each one.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_britain.png|Map of Britain and Ireland on parchment, shaded from pale amber to deep violet where hills block the solstice sun: the West Highlands, the Lake District, Snowdonia and the South Wales valleys stand out, with dark dots for settlements that get no direct sun|How much of 21 December's sunshine the hills take, against a flat horizon. Dark dots are settlements with no direct sun on the solstice.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A little lost almost everywhere</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>With a flat horizon the shortest day lasts {{flat_min_south|hm}} in the Isles of Scilly and {{flat_min_north|hm}} at the top of Shetland. Hills take something from almost everyone: the median settlement loses {{median_lost_min|int}} minutes, mostly the very first and last light when the sun is a degree or two up. But {{lost_hour|int}} places, {{lost_hour_pc|pc}} of them, lose at least an hour, and {{lost_half|int}} lose half their sunshine or more. The median settlement in Scotland loses {{nations.Scotland.median_lost_min|int}} minutes, the median in Wales {{nations.Wales.median_lost_min|int}}, and the median in England {{nations.England.median_lost_min|int}}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And {{zero_sol|int}} places get none at all: {{nations.Scotland.zero|int}} in Scotland, {{nations.Wales.zero|int}} in Wales, {{nations.England.zero|int}} in England and {{nations.Northern Ireland.zero|int}} in Northern Ireland.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Kinlochleven, Seldom Seen and the dark glens</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The longest runs without direct sun are in the western Highlands, in valleys that run east to west under a steep southern wall. {{top.0.name}} in Kintail tops the list at {{top.0.nodays|int}} days, from about {{top.0.from}} to {{top.0.to}}. The largest of them all is Kinlochleven, a village of about {{by_name.kinlochleven.pop|int}} people at the head of Loch Leven with the slopes of Garbh Bheinn rising straight up to its south. Seen from the village, the skyline due south stands {{by_name.kinlochleven.hor_s|f1}} degrees high. The sun at noon on the solstice reaches {{by_name.kinlochleven.noon_alt|f1}}. On this computation it stays hidden for {{by_name.kinlochleven.nodays|int}} days, from about {{by_name.kinlochleven.from}} to {{by_name.kinlochleven.to}}.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_skylines.png|Four panels, each a black skyline seen from a place with the red path of the solstice sun: at Kinlochleven and Seldom Seen the whole path lies behind the hills, at Penmaenpool too, and at Ilkley the sun clears the moor for the middle of the day|The skyline from four places with the sun's path on 21 December (red, gold where it clears the hills), and a month and two months either side (dashed).}}
+
+<!-- wp:paragraph -->
+<p>My favourite find is in the Lake District. In Glencoyne, the side valley next to Glenridding above Ullswater, there is a row of old miners' cottages called Seldom Seen, and it earns its name: no direct sun for {{by_name.seldom_seen.nodays|int}} days. In Borrowdale, Stonethwaite goes {{by_name.stonethwaite.nodays|int}} days, and Glencoe village, at the foot of the glen, {{by_name.glencoe.nodays|int}}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>At Kinlochleven the skyline due south stands {{by_name.kinlochleven.hor_s|int}} degrees high. The midwinter sun reaches {{by_name.kinlochleven.noon_alt|int}}.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+{{IMG|b_calendar.png|Chart of horizontal bars centred on 21 December, one per settlement, showing the run of days with no direct sun, longest at the top|The run of days without direct sun around the solstice, for the darkest places.}}
+
+{{IMG|b_lochaber.png|Hill-shaded map of Glen Coe, Loch Leven and Glen Nevis with violet shading on north-facing slopes and valley floors, and dark dots at Kinlochleven, Glencoe village and Achriabhach|Lochaber, where the winter sun has the hardest time: shading shows the share of solstice sunshine lost.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Towns in the shade</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most of the sunless places are hamlets of a few houses. One town nearly made the list. Penmaenmawr on the North Wales coast, home to about {{by_name.penmaenmawr.pop|int}} people, sits under steep hills east of the headland it is named after. From its Wikidata point, west of the town centre, the sun stays behind the hills all day on the solstice; from the town's point on OpenStreetMap, half a kilometre east, it shows for {{point_check.by_qid.Q2653611.osm_sol_min|hm}}. So part of the town is in shadow, not all of it, and I have not counted it. Newburgh in Fife, tucked under the hills on the south shore of the Tay, keeps just {{by_name.newburgh.sol_min|hm}} of sun. After them come the South Wales valleys: Ferndale in the Rhondda keeps {{by_name.ferndale.sol_min|hm}} of a {{by_name.ferndale.flat_min|hm}} day. Of the bigger towns, {{big.0.name}} in Wharfedale, with Ilkley Moor to its south, loses the most: {{big.0.lost_min|hm}}.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_towns.png|Bar chart of twelve towns, each bar split into the hours of direct sun kept on 21 December and the hours lost behind hills|Towns of 2,000 people or more that lose the most solstice sun.}}
+
+<!-- wp:paragraph -->
+<p>Away from where people live, {{grid.United Kingdom.zero_km2|int}} square kilometres of the United Kingdom see no direct sun on the shortest day, most of it steep north-facing hillside that shades itself, and {{grid.United Kingdom.dark60_km2|int}} square kilometres go at least two months without it. Ireland, which I have as terrain only, has {{grid.Ireland.zero_km2|int}} square kilometres.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The terrain is the open AWS Terrain Tiles at about 90 metres, mostly from the Shuttle Radar Topography Mission. The places are every living settlement in the UK that Wikidata gives coordinates for, from cities to hamlets. From a point 2 metres above the ground at each one I traced rays every degree of compass bearing out to 30 kilometres and found the steepest angle up to the terrain, allowing for the curve of the Earth and the bending of light in the air. Then for each day from the solstice back to the equinox I worked out where the sun is at every bearing and counted the minutes when it stands above both the skyline and the flat horizon. The map does the same for every 175 metre square, a little more coarsely. On the interactive page you can tap any place to see its skyline with the sun's path drawn over it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some honest caveats. At 90 metres the terrain smooths sharp ridges and narrow gorges, and it has no buildings or trees, which in a town or a wood often matter more than the hills. A Wikidata point is one spot; a village climbing a hillside may have sunny houses above a sunless core. I ignore cloud, which in the west Highlands hides the winter sun most days anyway. The point matters most of all. I checked every sunless place a second way, with separate code working straight from the raw terrain and a standard solar position formula, and {{point_check.check_zero|int}} of the {{point_check.n|int}} came out sunless again. But when I moved each one to the point OpenStreetMap gives for the same place, {{point_check.osm_sunny|int}} of the {{point_check.osm_matched|int}} I could match got at least some sun, usually because the Wikidata point sits a little way up the shaded hillside. Those {{disputed|int}} I have left out, which is why the count is {{zero_sol|int}} and not {{zero_pts|int}}. So treat any single place as an estimate to check on the ground. If you live somewhere on this map, I would love to know whether it matches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/sunless-valleys/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24055580">Read the paper</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/sunless-valleys">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Notes and sources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Terrain: <a href="https://registry.opendata.aws/terrain-tiles/">AWS Terrain Tiles</a> (Terrarium format, zoom 10), chiefly from SRTM in Britain and Ireland; <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md">source attribution</a>.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Settlements: <a href="https://www.wikidata.org/">Wikidata</a> (CC0). Counties and nations: ONS boundaries (Open Government Licence v3.0). Outlines: <a href="https://www.naturalearthdata.com/">Natural Earth</a> (public domain).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>The sun: declination after P. I. Cooper (1969), refraction after G. G. Bennett (1982) and T. Saemundsson (1986). Horizon tracing in the spirit of Dozier, Bruno and Downey (1981).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

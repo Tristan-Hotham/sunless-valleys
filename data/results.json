@@ -1,0 +1,1642 @@
+{
+ "n_sett": 36692,
+ "TILES": "2,146",
+ "despiked": 993,
+ "raw_rows": 69384,
+ "n_named_pop": 13767,
+ "zero_pts": 84,
+ "zero_sol": 64,
+ "disputed": 20,
+ "dark30": 53,
+ "dark60": 27,
+ "dark90": 6,
+ "lost_hour": 5031,
+ "lost_hour_pc": 13.711435735310149,
+ "lost_half": 331,
+ "median_lost_min": 17.5,
+ "flat_min_south": 481.0,
+ "flat_min_north": 327.9,
+ "flat_south_name": "Old Town",
+ "flat_north_name": "Valsgarth",
+ "nations": {
+  "England": {
+   "n": 27079,
+   "zero": 6,
+   "zero_pc": 0.022157391336459987,
+   "zero_pts": 6,
+   "median_lost_min": 13.6,
+   "median_share_pc": 2.994266298577193,
+   "lost_hour_pc": 6.975885372428819
+  },
+  "Northern Ireland": {
+   "n": 632,
+   "zero": 2,
+   "zero_pc": 0.31645569620253167,
+   "zero_pts": 2,
+   "median_lost_min": 23.1,
+   "median_share_pc": 5.374465629274966,
+   "lost_hour_pc": 10.917721518987342
+  },
+  "Scotland": {
+   "n": 4462,
+   "zero": 41,
+   "zero_pc": 0.9188704616763783,
+   "zero_pts": 59,
+   "median_lost_min": 40.55,
+   "median_share_pc": 10.108528247939622,
+   "lost_hour_pc": 34.849843119677274
+  },
+  "Wales": {
+   "n": 4519,
+   "zero": 15,
+   "zero_pc": 0.33193184332816994,
+   "zero_pts": 17,
+   "median_lost_min": 40.6,
+   "median_share_pc": 8.85831004085143,
+   "lost_hour_pc": 33.591502544810794
+  }
+ },
+ "top": [
+  {
+   "qid": "Q2280422",
+   "name": "Camas-luinie",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 19,
+   "sol_min": 0.0,
+   "flat_min": 392.6,
+   "lost_min": 392.6,
+   "share_pc": 100.0,
+   "nodays": 123,
+   "hor_s": 23.79,
+   "hor_max": 25.31,
+   "noon_alt": 9.36,
+   "lat": 57.299,
+   "lon": -5.408,
+   "from": "21 October",
+   "to": "20 February"
+  },
+  {
+   "qid": "Q6915175",
+   "name": "Morvich",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 59,
+   "sol_min": 0.0,
+   "flat_min": 393.6,
+   "lost_min": 393.6,
+   "share_pc": 100.0,
+   "nodays": 117,
+   "hor_s": 28.74,
+   "hor_max": 29.05,
+   "noon_alt": 9.42,
+   "lat": 57.2316,
+   "lon": -5.38322,
+   "from": "24 October",
+   "to": "17 February"
+  },
+  {
+   "qid": "Q1013614",
+   "name": "Kinlochleven",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 810,
+   "elev_m": 14,
+   "sol_min": 0.0,
+   "flat_min": 400.9,
+   "lost_min": 400.9,
+   "share_pc": 100.0,
+   "nodays": 109,
+   "hor_s": 25.56,
+   "hor_max": 27.27,
+   "noon_alt": 9.94,
+   "lat": 56.71325,
+   "lon": -4.96529,
+   "from": "28 October",
+   "to": "13 February"
+  },
+  {
+   "qid": "Q2741546",
+   "name": "Camusnagaul",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 27,
+   "sol_min": 0.0,
+   "flat_min": 383.9,
+   "lost_min": 383.9,
+   "share_pc": 100.0,
+   "nodays": 103,
+   "hor_s": 25.9,
+   "hor_max": 26.64,
+   "noon_alt": 8.81,
+   "lat": 57.8499,
+   "lon": -5.26073,
+   "from": "31 October",
+   "to": "10 February"
+  },
+  {
+   "qid": "Q89471534",
+   "name": "Seldom Seen",
+   "county": "Cumbria",
+   "nation": "England",
+   "pop": null,
+   "elev_m": 251,
+   "sol_min": 0.0,
+   "flat_min": 430.2,
+   "lost_min": 430.2,
+   "share_pc": 100.0,
+   "nodays": 99,
+   "hor_s": 20.23,
+   "hor_max": 20.84,
+   "noon_alt": 12.08,
+   "lat": 54.558,
+   "lon": -2.96,
+   "from": "2 November",
+   "to": "8 February"
+  },
+  {
+   "qid": "Q2496103",
+   "name": "Ardessie",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 32,
+   "sol_min": 0.0,
+   "flat_min": 383.8,
+   "lost_min": 383.8,
+   "share_pc": 100.0,
+   "nodays": 91,
+   "hor_s": 15.52,
+   "hor_max": 19.62,
+   "noon_alt": 8.81,
+   "lat": 57.8534,
+   "lon": -5.28427,
+   "from": "6 November",
+   "to": "4 February"
+  },
+  {
+   "qid": "Q123520514",
+   "name": "Pen-y-coed",
+   "county": "Clwyd",
+   "nation": "Wales",
+   "pop": null,
+   "elev_m": 99,
+   "sol_min": 0.0,
+   "flat_min": 445.3,
+   "lost_min": 445.3,
+   "share_pc": 100.0,
+   "nodays": 89,
+   "hor_s": 20.25,
+   "hor_max": 20.26,
+   "noon_alt": 13.36,
+   "lat": 53.2646,
+   "lon": -3.92956,
+   "from": "7 November",
+   "to": "3 February"
+  },
+  {
+   "qid": "Q7371598",
+   "name": "Routenbeck",
+   "county": "Cumbria",
+   "nation": "England",
+   "pop": null,
+   "elev_m": 124,
+   "sol_min": 0.0,
+   "flat_min": 429.3,
+   "lost_min": 429.3,
+   "share_pc": 100.0,
+   "nodays": 85,
+   "hor_s": 19.11,
+   "hor_max": 19.16,
+   "noon_alt": 11.97,
+   "lat": 54.662,
+   "lon": -3.249,
+   "from": "9 November",
+   "to": "1 February"
+  },
+  {
+   "qid": "Q123520453",
+   "name": "Penmaenan",
+   "county": "Clwyd",
+   "nation": "Wales",
+   "pop": null,
+   "elev_m": 97,
+   "sol_min": 0.0,
+   "flat_min": 445.3,
+   "lost_min": 445.3,
+   "share_pc": 100.0,
+   "nodays": 83,
+   "hor_s": 22.95,
+   "hor_max": 27.04,
+   "noon_alt": 13.36,
+   "lat": 53.26546,
+   "lon": -3.94104,
+   "from": "10 November",
+   "to": "31 January"
+  },
+  {
+   "qid": "Q108367061",
+   "name": "Knock",
+   "county": "Argyll and Bute",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 263,
+   "sol_min": 0.0,
+   "flat_min": 405.0,
+   "lost_min": 405.0,
+   "share_pc": 100.0,
+   "nodays": 81,
+   "hor_s": 17.76,
+   "hor_max": 26.09,
+   "noon_alt": 10.18,
+   "lat": 56.46667,
+   "lon": -5.98333,
+   "from": "11 November",
+   "to": "30 January"
+  },
+  {
+   "qid": "Q2404650",
+   "name": "Allt na h-Airbhe",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 37,
+   "sol_min": 0.0,
+   "flat_min": 383.3,
+   "lost_min": 383.3,
+   "share_pc": 100.0,
+   "nodays": 81,
+   "hor_s": 14.36,
+   "hor_max": 14.36,
+   "noon_alt": 8.77,
+   "lat": 57.8876,
+   "lon": -5.1838,
+   "from": "11 November",
+   "to": "30 January"
+  },
+  {
+   "qid": "Q2113099",
+   "name": "Sangobeg",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 6,
+   "elev_m": 34,
+   "sol_min": 0.0,
+   "flat_min": 372.2,
+   "lost_min": 372.2,
+   "share_pc": 100.0,
+   "nodays": 81,
+   "hor_s": 14.32,
+   "hor_max": 14.49,
+   "noon_alt": 8.12,
+   "lat": 58.5535,
+   "lon": -4.70361,
+   "from": "11 November",
+   "to": "30 January"
+  },
+  {
+   "qid": "Q20598073",
+   "name": "Cwm Llech",
+   "county": "Powys",
+   "nation": "Wales",
+   "pop": null,
+   "elev_m": 282,
+   "sol_min": 0.0,
+   "flat_min": 450.3,
+   "lost_min": 450.3,
+   "share_pc": 100.0,
+   "nodays": 79,
+   "hor_s": 21.55,
+   "hor_max": 24.08,
+   "noon_alt": 13.81,
+   "lat": 52.81226,
+   "lon": -3.43562,
+   "from": "12 November",
+   "to": "29 January"
+  },
+  {
+   "qid": "Q5142496",
+   "name": "Coldbackie",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 71,
+   "sol_min": 0.0,
+   "flat_min": 372.2,
+   "lost_min": 372.2,
+   "share_pc": 100.0,
+   "nodays": 79,
+   "hor_s": 15.97,
+   "hor_max": 16.67,
+   "noon_alt": 8.16,
+   "lat": 58.50579,
+   "lon": -4.38156,
+   "from": "12 November",
+   "to": "29 January"
+  },
+  {
+   "qid": "Q107032754",
+   "name": "Pantygaseg",
+   "county": "Gwent",
+   "nation": "Wales",
+   "pop": null,
+   "elev_m": 339,
+   "sol_min": 0.0,
+   "flat_min": 463.1,
+   "lost_min": 463.1,
+   "share_pc": 100.0,
+   "nodays": 77,
+   "hor_s": 21.22,
+   "hor_max": 22.0,
+   "noon_alt": 14.94,
+   "lat": 51.68473,
+   "lon": -3.08627,
+   "from": "13 November",
+   "to": "28 January"
+  }
+ ],
+ "by_name": {
+  "kinlochleven": {
+   "qid": "Q1013614",
+   "name": "Kinlochleven",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 810,
+   "elev_m": 14,
+   "sol_min": 0.0,
+   "flat_min": 400.9,
+   "lost_min": 400.9,
+   "share_pc": 100.0,
+   "nodays": 109,
+   "hor_s": 25.56,
+   "hor_max": 27.27,
+   "noon_alt": 9.94,
+   "lat": 56.71325,
+   "lon": -4.96529,
+   "from": "28 October",
+   "to": "13 February"
+  },
+  "seldom_seen": {
+   "qid": "Q89471534",
+   "name": "Seldom Seen",
+   "county": "Cumbria",
+   "nation": "England",
+   "pop": null,
+   "elev_m": 251,
+   "sol_min": 0.0,
+   "flat_min": 430.2,
+   "lost_min": 430.2,
+   "share_pc": 100.0,
+   "nodays": 99,
+   "hor_s": 20.23,
+   "hor_max": 20.84,
+   "noon_alt": 12.08,
+   "lat": 54.558,
+   "lon": -2.96,
+   "from": "2 November",
+   "to": "8 February"
+  },
+  "glencoe": {
+   "qid": "Q956688",
+   "name": "Glencoe",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 374,
+   "elev_m": 5,
+   "sol_min": 0.0,
+   "flat_min": 400.9,
+   "lost_min": 400.9,
+   "share_pc": 100.0,
+   "nodays": 77,
+   "hor_s": 17.16,
+   "hor_max": 17.7,
+   "noon_alt": 9.97,
+   "lat": 56.6828,
+   "lon": -5.10598,
+   "from": "13 November",
+   "to": "28 January"
+  },
+  "penmaenmawr": {
+   "qid": "Q2653611",
+   "name": "Penmaenmawr",
+   "county": "Clwyd",
+   "nation": "Wales",
+   "pop": 4353,
+   "elev_m": 14,
+   "sol_min": 0.0,
+   "flat_min": 445.3,
+   "lost_min": 445.3,
+   "share_pc": 100.0,
+   "nodays": 5,
+   "hor_s": 14.2,
+   "hor_max": 14.2,
+   "noon_alt": 13.36,
+   "lat": 53.27,
+   "lon": -3.928,
+   "from": "19 December",
+   "to": "23 December"
+  },
+  "ilkley": {
+   "qid": "Q1020951",
+   "name": "Ilkley",
+   "county": "West Yorkshire",
+   "nation": "England",
+   "pop": 14809,
+   "elev_m": 98,
+   "sol_min": 270.7,
+   "flat_min": 437.7,
+   "lost_min": 167.0,
+   "share_pc": 38.15398674891478,
+   "nodays": 0,
+   "hor_s": 8.69,
+   "hor_max": 8.75,
+   "noon_alt": 12.71,
+   "lat": 53.925,
+   "lon": -1.822
+  },
+  "stonethwaite": {
+   "qid": "Q7619337",
+   "name": "Stonethwaite",
+   "county": "Cumbria",
+   "nation": "England",
+   "pop": null,
+   "elev_m": 116,
+   "sol_min": 0.0,
+   "flat_min": 430.2,
+   "lost_min": 430.2,
+   "share_pc": 100.0,
+   "nodays": 67,
+   "hor_s": 20.62,
+   "hor_max": 26.61,
+   "noon_alt": 12.12,
+   "lat": 54.51306,
+   "lon": -3.14028,
+   "from": "18 November",
+   "to": "23 January"
+  },
+  "morvich": {
+   "qid": "Q6915175",
+   "name": "Morvich",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 59,
+   "sol_min": 0.0,
+   "flat_min": 393.6,
+   "lost_min": 393.6,
+   "share_pc": 100.0,
+   "nodays": 117,
+   "hor_s": 28.74,
+   "hor_max": 29.05,
+   "noon_alt": 9.42,
+   "lat": 57.2316,
+   "lon": -5.38322,
+   "from": "24 October",
+   "to": "17 February"
+  },
+  "camas_luinie": {
+   "qid": "Q2280422",
+   "name": "Camas-luinie",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": null,
+   "elev_m": 19,
+   "sol_min": 0.0,
+   "flat_min": 392.6,
+   "lost_min": 392.6,
+   "share_pc": 100.0,
+   "nodays": 123,
+   "hor_s": 23.79,
+   "hor_max": 25.31,
+   "noon_alt": 9.36,
+   "lat": 57.299,
+   "lon": -5.408,
+   "from": "21 October",
+   "to": "20 February"
+  },
+  "newburgh": {
+   "qid": "Q3875618",
+   "name": "Newburgh",
+   "county": "Fife",
+   "nation": "Scotland",
+   "pop": 2120,
+   "elev_m": 12,
+   "sol_min": 47.2,
+   "flat_min": 405.7,
+   "lost_min": 358.6,
+   "share_pc": 88.39043628296773,
+   "nodays": 0,
+   "hor_s": 11.23,
+   "hor_max": 11.43,
+   "noon_alt": 10.3,
+   "lat": 56.3517,
+   "lon": -3.2383
+  },
+  "ferndale": {
+   "qid": "Q3401144",
+   "name": "Ferndale",
+   "county": "Mid Glamorgan",
+   "nation": "Wales",
+   "pop": 4419,
+   "elev_m": 244,
+   "sol_min": 268.0,
+   "flat_min": 463.1,
+   "lost_min": 195.1,
+   "share_pc": 42.12912977758583,
+   "nodays": 0,
+   "hor_s": 12.46,
+   "hor_max": 16.18,
+   "noon_alt": 14.96,
+   "lat": 51.6577,
+   "lon": -3.44588
+  },
+  "fort_william": {
+   "qid": "Q848909",
+   "name": "Fort William",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 10175,
+   "elev_m": 30,
+   "sol_min": 274.4,
+   "flat_min": 399.8,
+   "lost_min": 125.5,
+   "share_pc": 31.390695347673837,
+   "nodays": 0,
+   "hor_s": 6.87,
+   "hor_max": 12.58,
+   "noon_alt": 9.84,
+   "lat": 56.81694,
+   "lon": -5.10972
+  },
+  "keswick": {
+   "qid": "Q1025076",
+   "name": "Keswick",
+   "county": "Cumbria",
+   "nation": "England",
+   "pop": 4984,
+   "elev_m": 86,
+   "sol_min": 323.4,
+   "flat_min": 430.0,
+   "lost_min": 106.6,
+   "share_pc": 24.790697674418603,
+   "nodays": 0,
+   "hor_s": 2.44,
+   "hor_max": 6.08,
+   "noon_alt": 12.04,
+   "lat": 54.60083,
+   "lon": -3.1375
+  },
+  "hebden_bridge": {
+   "qid": "Q1023948",
+   "name": "Hebden Bridge",
+   "county": "West Yorkshire",
+   "nation": "England",
+   "pop": null,
+   "elev_m": 143,
+   "sol_min": 322.9,
+   "flat_min": 440.2,
+   "lost_min": 117.3,
+   "share_pc": 26.646978646069968,
+   "nodays": 0,
+   "hor_s": 4.95,
+   "hor_max": 8.22,
+   "noon_alt": 12.89,
+   "lat": 53.742,
+   "lon": -2.009
+  },
+  "cwm_llech": {
+   "qid": "Q20598073",
+   "name": "Cwm Llech",
+   "county": "Powys",
+   "nation": "Wales",
+   "pop": null,
+   "elev_m": 282,
+   "sol_min": 0.0,
+   "flat_min": 450.3,
+   "lost_min": 450.3,
+   "share_pc": 100.0,
+   "nodays": 79,
+   "hor_s": 21.55,
+   "hor_max": 24.08,
+   "noon_alt": 13.81,
+   "lat": 52.81226,
+   "lon": -3.43562,
+   "from": "12 November",
+   "to": "29 January"
+  },
+  "braemar": {
+   "qid": "Q897175",
+   "name": "Braemar",
+   "county": "Aberdeenshire",
+   "nation": "Scotland",
+   "pop": 808,
+   "elev_m": 327,
+   "sol_min": 201.5,
+   "flat_min": 396.1,
+   "lost_min": 194.6,
+   "share_pc": 49.129007826306484,
+   "nodays": 0,
+   "hor_s": 2.63,
+   "hor_max": 8.34,
+   "noon_alt": 9.64,
+   "lat": 57.01,
+   "lon": -3.4
+  }
+ },
+ "towns": [
+  {
+   "qid": "Q3875618",
+   "name": "Newburgh",
+   "county": "Fife",
+   "nation": "Scotland",
+   "pop": 2120,
+   "elev_m": 12,
+   "sol_min": 47.2,
+   "flat_min": 405.7,
+   "lost_min": 358.6,
+   "share_pc": 88.39043628296773,
+   "nodays": 0,
+   "hor_s": 11.23,
+   "hor_max": 11.43,
+   "noon_alt": 10.3,
+   "lat": 56.3517,
+   "lon": -3.2383
+  },
+  {
+   "qid": "Q7517969",
+   "name": "Simmondley",
+   "county": "Derbyshire",
+   "nation": "England",
+   "pop": 4727,
+   "elev_m": 216,
+   "sol_min": 221.8,
+   "flat_min": 444.1,
+   "lost_min": 222.3,
+   "share_pc": 50.05629362756135,
+   "nodays": 0,
+   "hor_s": 10.42,
+   "hor_max": 10.64,
+   "noon_alt": 13.19,
+   "lat": 53.435,
+   "lon": -1.973
+  },
+  {
+   "qid": "Q3401144",
+   "name": "Ferndale",
+   "county": "Mid Glamorgan",
+   "nation": "Wales",
+   "pop": 4419,
+   "elev_m": 244,
+   "sol_min": 268.0,
+   "flat_min": 463.1,
+   "lost_min": 195.1,
+   "share_pc": 42.12912977758583,
+   "nodays": 0,
+   "hor_s": 12.46,
+   "hor_max": 16.18,
+   "noon_alt": 14.96,
+   "lat": 51.6577,
+   "lon": -3.44588
+  },
+  {
+   "qid": "Q5199742",
+   "name": "Cymmer",
+   "county": "West Glamorgan",
+   "nation": "Wales",
+   "pop": 2825,
+   "elev_m": 229,
+   "sol_min": 273.8,
+   "flat_min": 463.1,
+   "lost_min": 189.3,
+   "share_pc": 40.87670049665299,
+   "nodays": 0,
+   "hor_s": 10.22,
+   "hor_max": 10.53,
+   "noon_alt": 14.97,
+   "lat": 51.65,
+   "lon": -3.65
+  },
+  {
+   "qid": "Q1868842",
+   "name": "Abercarn",
+   "county": "Gwent",
+   "nation": "Wales",
+   "pop": 5446,
+   "elev_m": 111,
+   "sol_min": 274.9,
+   "flat_min": 463.1,
+   "lost_min": 188.2,
+   "share_pc": 40.63917080544158,
+   "nodays": 0,
+   "hor_s": 2.59,
+   "hor_max": 17.81,
+   "noon_alt": 14.98,
+   "lat": 51.6456,
+   "lon": -3.13447
+  },
+  {
+   "qid": "Q3400833",
+   "name": "Clydach Vale",
+   "county": "Mid Glamorgan",
+   "nation": "Wales",
+   "pop": 2799,
+   "elev_m": 247,
+   "sol_min": 280.4,
+   "flat_min": 463.1,
+   "lost_min": 182.7,
+   "share_pc": 39.451522349384575,
+   "nodays": 0,
+   "hor_s": 11.95,
+   "hor_max": 12.76,
+   "noon_alt": 15.0,
+   "lat": 51.625,
+   "lon": -3.48
+  },
+  {
+   "qid": "Q5197175",
+   "name": "Cwm",
+   "county": "Gwent",
+   "nation": "Wales",
+   "pop": 4090,
+   "elev_m": 220,
+   "sol_min": 280.3,
+   "flat_min": 462.8,
+   "lost_min": 182.4,
+   "share_pc": 39.412273120138295,
+   "nodays": 0,
+   "hor_s": 4.23,
+   "hor_max": 14.32,
+   "noon_alt": 14.88,
+   "lat": 51.7409,
+   "lon": -3.1812
+  },
+  {
+   "qid": "Q2311675",
+   "name": "Corwen",
+   "county": "Clwyd",
+   "nation": "Wales",
+   "pop": 2244,
+   "elev_m": 164,
+   "sol_min": 271.3,
+   "flat_min": 449.3,
+   "lost_min": 178.1,
+   "share_pc": 39.63943912753171,
+   "nodays": 0,
+   "hor_s": 10.15,
+   "hor_max": 10.63,
+   "noon_alt": 13.65,
+   "lat": 52.98,
+   "lon": -3.379
+  },
+  {
+   "qid": "Q4613648",
+   "name": "Hutton",
+   "county": "Somerset",
+   "nation": "England",
+   "pop": 2582,
+   "elev_m": 41,
+   "sol_min": 289.7,
+   "flat_min": 467.1,
+   "lost_min": 177.5,
+   "share_pc": 38.00042817383857,
+   "nodays": 0,
+   "hor_s": 9.97,
+   "hor_max": 10.13,
+   "noon_alt": 15.3,
+   "lat": 51.32193,
+   "lon": -2.92699
+  },
+  {
+   "qid": "Q1007083",
+   "name": "Dartmouth",
+   "county": "Devon",
+   "nation": "England",
+   "pop": 5064,
+   "elev_m": 16,
+   "sol_min": 304.7,
+   "flat_min": 476.1,
+   "lost_min": 171.4,
+   "share_pc": 36.00084015963033,
+   "nodays": 0,
+   "hor_s": 7.47,
+   "hor_max": 12.16,
+   "noon_alt": 16.27,
+   "lat": 50.35028,
+   "lon": -3.57861
+  },
+  {
+   "qid": "Q6661603",
+   "name": "Llanhilleth",
+   "county": "Gwent",
+   "nation": "Wales",
+   "pop": 4404,
+   "elev_m": 217,
+   "sol_min": 291.9,
+   "flat_min": 463.1,
+   "lost_min": 171.2,
+   "share_pc": 36.96825739581084,
+   "nodays": 0,
+   "hor_s": 10.95,
+   "hor_max": 12.32,
+   "noon_alt": 14.92,
+   "lat": 51.6973,
+   "lon": -3.13595
+  },
+  {
+   "qid": "Q5188698",
+   "name": "Crosskeys",
+   "county": "Gwent",
+   "nation": "Wales",
+   "pop": 3092,
+   "elev_m": 64,
+   "sol_min": 292.5,
+   "flat_min": 463.1,
+   "lost_min": 170.6,
+   "share_pc": 36.838695746059166,
+   "nodays": 0,
+   "hor_s": 11.32,
+   "hor_max": 12.18,
+   "noon_alt": 15.0,
+   "lat": 51.6169,
+   "lon": -3.1207
+  }
+ ],
+ "n_towns2000": 4589,
+ "towns_lost_2h": 46,
+ "big": [
+  {
+   "qid": "Q1020951",
+   "name": "Ilkley",
+   "county": "West Yorkshire",
+   "nation": "England",
+   "pop": 14809,
+   "elev_m": 98,
+   "sol_min": 270.7,
+   "flat_min": 437.7,
+   "lost_min": 167.0,
+   "share_pc": 38.15398674891478,
+   "nodays": 0,
+   "hor_s": 8.69,
+   "hor_max": 8.75,
+   "noon_alt": 12.71,
+   "lat": 53.925,
+   "lon": -1.822
+  },
+  {
+   "qid": "Q658902",
+   "name": "Otley",
+   "county": "West Yorkshire",
+   "nation": "England",
+   "pop": 13668,
+   "elev_m": 62,
+   "sol_min": 286.9,
+   "flat_min": 437.7,
+   "lost_min": 150.8,
+   "share_pc": 34.45282156728353,
+   "nodays": 0,
+   "hor_s": 7.95,
+   "hor_max": 7.96,
+   "noon_alt": 12.73,
+   "lat": 53.905,
+   "lon": -1.687
+  },
+  {
+   "qid": "Q2469852",
+   "name": "Mountain Ash",
+   "county": "Mid Glamorgan",
+   "nation": "Wales",
+   "pop": 11230,
+   "elev_m": 125,
+   "sol_min": 330.9,
+   "flat_min": 463.1,
+   "lost_min": 132.2,
+   "share_pc": 28.546750161952055,
+   "nodays": 0,
+   "hor_s": 7.71,
+   "hor_max": 14.23,
+   "noon_alt": 14.94,
+   "lat": 51.6814,
+   "lon": -3.37916
+  },
+  {
+   "qid": "Q1327770",
+   "name": "Todmorden",
+   "county": "West Yorkshire",
+   "nation": "England",
+   "pop": 14941,
+   "elev_m": 143,
+   "sol_min": 312.8,
+   "flat_min": 440.2,
+   "lost_min": 127.5,
+   "share_pc": 28.964107223989092,
+   "nodays": 0,
+   "hor_s": 6.5,
+   "hor_max": 7.82,
+   "noon_alt": 12.92,
+   "lat": 53.713,
+   "lon": -2.096
+  },
+  {
+   "qid": "Q848909",
+   "name": "Fort William",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 10175,
+   "elev_m": 30,
+   "sol_min": 274.4,
+   "flat_min": 399.8,
+   "lost_min": 125.5,
+   "share_pc": 31.390695347673837,
+   "nodays": 0,
+   "hor_s": 6.87,
+   "hor_max": 12.58,
+   "noon_alt": 9.84,
+   "lat": 56.81694,
+   "lon": -5.10972
+  }
+ ],
+ "n_big": 1663,
+ "zero_with_pop": [
+  {
+   "qid": "Q1013614",
+   "name": "Kinlochleven",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 810,
+   "elev_m": 14,
+   "sol_min": 0.0,
+   "flat_min": 400.9,
+   "lost_min": 400.9,
+   "share_pc": 100.0,
+   "nodays": 109,
+   "hor_s": 25.56,
+   "hor_max": 27.27,
+   "noon_alt": 9.94,
+   "lat": 56.71325,
+   "lon": -4.96529,
+   "from": "28 October",
+   "to": "13 February"
+  },
+  {
+   "qid": "Q956688",
+   "name": "Glencoe",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 374,
+   "elev_m": 5,
+   "sol_min": 0.0,
+   "flat_min": 400.9,
+   "lost_min": 400.9,
+   "share_pc": 100.0,
+   "nodays": 77,
+   "hor_s": 17.16,
+   "hor_max": 17.7,
+   "noon_alt": 9.97,
+   "lat": 56.6828,
+   "lon": -5.10598,
+   "from": "13 November",
+   "to": "28 January"
+  },
+  {
+   "qid": "Q667705",
+   "name": "Lochranza",
+   "county": "North Ayrshire",
+   "nation": "Scotland",
+   "pop": 251,
+   "elev_m": 29,
+   "sol_min": 0.0,
+   "flat_min": 415.5,
+   "lost_min": 415.5,
+   "share_pc": 100.0,
+   "nodays": 31,
+   "hor_s": 15.26,
+   "hor_max": 15.87,
+   "noon_alt": 10.94,
+   "lat": 55.7048,
+   "lon": -5.2947,
+   "from": "6 December",
+   "to": "5 January"
+  },
+  {
+   "qid": "Q7685653",
+   "name": "Tarbet",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 6,
+   "elev_m": 39,
+   "sol_min": 0.0,
+   "flat_min": 397.6,
+   "lost_min": 397.6,
+   "share_pc": 100.0,
+   "nodays": 71,
+   "hor_s": 16.61,
+   "hor_max": 19.2,
+   "noon_alt": 9.68,
+   "lat": 56.97,
+   "lon": -5.636,
+   "from": "16 November",
+   "to": "25 January"
+  },
+  {
+   "qid": "Q2113099",
+   "name": "Sangobeg",
+   "county": "Highland",
+   "nation": "Scotland",
+   "pop": 6,
+   "elev_m": 34,
+   "sol_min": 0.0,
+   "flat_min": 372.2,
+   "lost_min": 372.2,
+   "share_pc": 100.0,
+   "nodays": 81,
+   "hor_s": 14.32,
+   "hor_max": 14.49,
+   "noon_alt": 8.12,
+   "lat": 58.5535,
+   "lon": -4.70361,
+   "from": "11 November",
+   "to": "30 January"
+  }
+ ],
+ "grid": {
+  "England": {
+   "land_km2": 129364.2666441775,
+   "zero_km2": 210.3032102948494,
+   "dark30_km2": 164.31566311801137,
+   "dark60_km2": 84.18978749684658,
+   "dark181_km2": 0.0,
+   "half_km2": 616.649918613016,
+   "lost10_km2": 16868.016987072464,
+   "zero_pc": 0.16256669306779922,
+   "half_pc": 0.47667716488444256
+  },
+  "Scotland": {
+   "land_km2": 76614.96315620177,
+   "zero_km2": 4450.264671926779,
+   "dark30_km2": 3728.457071940811,
+   "dark60_km2": 2252.2063574672898,
+   "dark181_km2": 2.12337986002652,
+   "half_km2": 9595.027546679808,
+   "lost10_km2": 45755.15439569415,
+   "zero_pc": 5.8086103400632405,
+   "half_pc": 12.523699224546474
+  },
+  "Wales": {
+   "land_km2": 20485.660765694032,
+   "zero_km2": 189.31815265619775,
+   "dark30_km2": 146.98015185036923,
+   "dark60_km2": 67.33160952415989,
+   "dark181_km2": 0.0,
+   "half_km2": 575.1080247422998,
+   "lost10_km2": 9284.351180796575,
+   "zero_pc": 0.9241496030884012,
+   "half_pc": 2.807368682514722
+  },
+  "Northern Ireland": {
+   "land_km2": 14038.938162797838,
+   "zero_km2": 35.384868695343584,
+   "dark30_km2": 27.34476648380476,
+   "dark60_km2": 12.533810704389083,
+   "dark181_km2": 0.0,
+   "half_km2": 111.44254050007476,
+   "lost10_km2": 3141.267366923803,
+   "zero_pc": 0.25204804156136895,
+   "half_pc": 0.793810323884675
+  },
+  "Ireland": {
+   "land_km2": 69282.62792183584,
+   "zero_km2": 464.12581519050127,
+   "dark30_km2": 383.7562180746397,
+   "dark60_km2": 221.07119998030123,
+   "dark181_km2": 0.2300736713532805,
+   "half_km2": 1167.8819693357996,
+   "lost10_km2": 14827.06674294674,
+   "zero_pc": 0.669902151682417,
+   "half_pc": 1.685677931635901
+  },
+  "Isle of Man": {
+   "land_km2": 571.6401684780217,
+   "zero_km2": 6.436408733230925,
+   "dark30_km2": 4.619603947531106,
+   "dark60_km2": 1.1154176423620101,
+   "dark181_km2": 0.0,
+   "half_km2": 23.835490435722278,
+   "lost10_km2": 266.6241773716715,
+   "zero_pc": 1.1259545931433947,
+   "half_pc": 4.16966682015781
+  },
+  "UK coast cells": {
+   "land_km2": 2825.9594648024504,
+   "zero_km2": 70.96352170381891,
+   "dark30_km2": 58.928549804037615,
+   "dark60_km2": 34.93084398355509,
+   "dark181_km2": 0.35190245126671893,
+   "half_km2": 174.0900864810693,
+   "lost10_km2": 1150.8014754759042,
+   "zero_pc": 2.5111302050746027,
+   "half_pc": 6.160388662660423
+  },
+  "United Kingdom": {
+   "land_km2": 243329.7881936736,
+   "zero_km2": 4956.234425276988,
+   "dark30_km2": 4126.026203197034,
+   "dark60_km2": 2451.1924091762403,
+   "dark181_km2": 2.475282311293239,
+   "half_km2": 11072.318117016268,
+   "lost10_km2": 76199.5914059629,
+   "zero_pc": 2.0368383427565266,
+   "half_pc": 4.550334013443299
+  }
+ },
+ "ireland_counties": [
+  {
+   "county": "Kerry",
+   "zero_km2": 155.39578843011452
+  },
+  {
+   "county": "Mayo",
+   "zero_km2": 76.50589109123797
+  },
+  {
+   "county": "Donegal",
+   "zero_km2": 66.11691103419683
+  },
+  {
+   "county": "Galway",
+   "zero_km2": 65.6281929403847
+  },
+  {
+   "county": "Wicklow",
+   "zero_km2": 21.48977390116215
+  },
+  {
+   "county": "Cork",
+   "zero_km2": 15.423621433005255
+  }
+ ],
+ "ireland_top4_pc": 78.19269793854812,
+ "grid_cells": 9716368,
+ "grid_cell_m": 175.36991315630206,
+ "point_check": {
+  "n": 84,
+  "check_zero": 83,
+  "check_days_median_diff": -2.0,
+  "check_days_mad": 2.0,
+  "osm_matched": 58,
+  "osm_zero": 38,
+  "osm_sunny": 20,
+  "unmatched": 26,
+  "osm_offset_median_km": 0.16,
+  "coarse_2dp": 10,
+  "osm_sunny_names": [
+   "Leirinmore",
+   "Talisker",
+   "Aultbea",
+   "Kingairloch",
+   "Caddonlee",
+   "Stromeferry",
+   "Firth",
+   "Carron",
+   "Tarbet",
+   "Fodderty",
+   "Badcaul",
+   "Bonaly",
+   "North Erradale",
+   "Braemore",
+   "Catacol",
+   "Inverfarigaig",
+   "Kilkerran",
+   "Lewiston",
+   "Dolfach",
+   "Penmaenmawr"
+  ],
+  "by_qid": {
+   "Q2280422": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q6915175": {
+    "osm_offset_km": 0.41,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 85
+   },
+   "Q1013614": {
+    "osm_offset_km": 0.12,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 87
+   },
+   "Q2741546": {
+    "osm_offset_km": 0.21,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 98
+   },
+   "Q89471534": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q2159846": {
+    "osm_offset_km": 1.52,
+    "osm_sol_min": 252.0,
+    "osm_nodays": 0
+   },
+   "Q2496103": {
+    "osm_offset_km": 0.12,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 88
+   },
+   "Q123520514": {
+    "osm_offset_km": 0.41,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 36
+   },
+   "Q7371598": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q2349965": {
+    "osm_offset_km": 0.75,
+    "osm_sol_min": 170.0,
+    "osm_nodays": 0
+   },
+   "Q123520453": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q108367061": {
+    "osm_offset_km": 1.35,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 52
+   },
+   "Q2404650": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q2113099": {
+    "osm_offset_km": 0.12,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 67
+   },
+   "Q5142496": {
+    "osm_offset_km": 0.02,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 70
+   },
+   "Q20598073": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q956688": {
+    "osm_offset_km": 0.28,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 23
+   },
+   "Q107032754": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q4673899": {
+    "osm_offset_km": 0.02,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 73
+   },
+   "Q17458126": {
+    "osm_offset_km": 0.14,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 66
+   },
+   "Q122839109": {
+    "osm_offset_km": 0.06,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 61
+   },
+   "Q723315": {
+    "osm_offset_km": 0.48,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 32
+   },
+   "Q12061014": {
+    "osm_offset_km": 0.16,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 76
+   },
+   "Q7685653": {
+    "osm_offset_km": 0.09,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 66
+   },
+   "Q7163104": {
+    "osm_offset_km": 0.1,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 58
+   },
+   "Q20594570": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q7619337": {
+    "osm_offset_km": 0.03,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 62
+   },
+   "Q136871767": {
+    "osm_offset_km": 0.08,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 57
+   },
+   "Q772427": {
+    "osm_offset_km": 0.16,
+    "osm_sol_min": 281.0,
+    "osm_nodays": 0
+   },
+   "Q15187578": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q4788180": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q107032484": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q60477918": {
+    "osm_offset_km": 1.5,
+    "osm_sol_min": 145.0,
+    "osm_nodays": 0
+   },
+   "Q107033297": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q4726948": {
+    "osm_offset_km": 0.16,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 43
+   },
+   "Q4087058": {
+    "osm_offset_km": 0.09,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 8
+   },
+   "Q2332114": {
+    "osm_offset_km": 0.5,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 42
+   },
+   "Q5016325": {
+    "osm_offset_km": 1.22,
+    "osm_sol_min": 359.0,
+    "osm_nodays": 0
+   },
+   "Q3297444": {
+    "osm_offset_km": 0.16,
+    "osm_sol_min": 58.0,
+    "osm_nodays": 0
+   },
+   "Q5454295": {
+    "osm_offset_km": 0.59,
+    "osm_sol_min": 270.0,
+    "osm_nodays": 0
+   },
+   "Q5504639": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q6665057": {
+    "osm_offset_km": 0.71,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 42
+   },
+   "Q124478924": {
+    "osm_offset_km": 0.07,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 42
+   },
+   "Q4736757": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q104727223": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q3398476": {
+    "osm_offset_km": 0.05,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 40
+   },
+   "Q3438956": {
+    "osm_offset_km": 0.13,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 23
+   },
+   "Q4673638": {
+    "osm_offset_km": 0.04,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 45
+   },
+   "Q106963434": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q1045216": {
+    "osm_offset_km": 0.21,
+    "osm_sol_min": 111.0,
+    "osm_nodays": 0
+   },
+   "Q596798": {
+    "osm_offset_km": 0.37,
+    "osm_sol_min": 191.0,
+    "osm_nodays": 0
+   },
+   "Q5314900": {
+    "osm_offset_km": 0.08,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 40
+   },
+   "Q2667320": {
+    "osm_offset_km": 1.98,
+    "osm_sol_min": 184.0,
+    "osm_nodays": 0
+   },
+   "Q3121271": {
+    "osm_offset_km": 0.29,
+    "osm_sol_min": 32.0,
+    "osm_nodays": 0
+   },
+   "Q13130349": {
+    "osm_offset_km": 0.36,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 15
+   },
+   "Q16880196": {
+    "osm_offset_km": 0.04,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 43
+   },
+   "Q5568123": {
+    "osm_offset_km": 0.14,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 34
+   },
+   "Q20594064": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q107032222": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q2249825": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q136772449": {
+    "osm_offset_km": 0.05,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 42
+   },
+   "Q123519640": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q667705": {
+    "osm_offset_km": 0.04,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 44
+   },
+   "Q7878790": {
+    "osm_offset_km": 0.17,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 35
+   },
+   "Q4941115": {
+    "osm_offset_km": 0.55,
+    "osm_sol_min": 279.0,
+    "osm_nodays": 0
+   },
+   "Q7055323": {
+    "osm_offset_km": 0.8,
+    "osm_sol_min": 299.0,
+    "osm_nodays": 0
+   },
+   "Q5559249": {
+    "osm_offset_km": 0.08,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 28
+   },
+   "Q1234805": {
+    "osm_offset_km": 0.05,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 18
+   },
+   "Q68376003": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q122155261": {
+    "osm_offset_km": 0.11,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 24
+   },
+   "Q111513120": {
+    "osm_offset_km": 0.11,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 37
+   },
+   "Q4955334": {
+    "osm_offset_km": 1.32,
+    "osm_sol_min": 168.0,
+    "osm_nodays": 0
+   },
+   "Q5051165": {
+    "osm_offset_km": 0.76,
+    "osm_sol_min": 220.0,
+    "osm_nodays": 0
+   },
+   "Q24656795": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q7598860": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q2363608": {
+    "osm_offset_km": 0.36,
+    "osm_sol_min": 308.0,
+    "osm_nodays": 0
+   },
+   "Q105957583": {
+    "osm_offset_km": 0.43,
+    "osm_sol_min": 184.0,
+    "osm_nodays": 0
+   },
+   "Q20597965": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q165022": {
+    "osm_offset_km": 0.13,
+    "osm_sol_min": 42.0,
+    "osm_nodays": 0
+   },
+   "Q5288968": {
+    "osm_offset_km": 0.08,
+    "osm_sol_min": 51.0,
+    "osm_nodays": 0
+   },
+   "Q37951894": {
+    "osm_offset_km": 0.09,
+    "osm_sol_min": 0.0,
+    "osm_nodays": 11
+   },
+   "Q2653611": {
+    "osm_offset_km": 0.57,
+    "osm_sol_min": 99.0,
+    "osm_nodays": 0
+   },
+   "Q7987379": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   },
+   "Q4950476": {
+    "osm_offset_km": null,
+    "osm_sol_min": null,
+    "osm_nodays": null
+   }
+  }
+ },
+ "noon_alt_56": 10.559999999999999,
+ "noon_alt_50": 16.56,
+ "noon_alt_60": 6.559999999999999
+}
