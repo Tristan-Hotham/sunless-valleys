@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Britain's Sunless Valleys: Where Terrain Hides the Winter Sun"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24055580"
+url: "https://maps.tristanhotham.com/sunless-valleys/"
+repository-code: "https://github.com/Tristan-Hotham/sunless-valleys"
+license: CC-BY-4.0
+keywords:
+  - "winter solstice"
+  - "terrain horizon"
+  - "topographic shading"
+  - "insolation"
+  - "digital elevation model"
+  - "SRTM"
+  - "settlements"
+  - "Scotland"
+  - "Wales"
+  - "Lake District"
